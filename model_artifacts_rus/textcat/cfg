@@ -1,0 +1,12 @@
+{
+  "labels":[
+    "pos",
+    "neg"
+  ],
+  "deprecation_fixes":{
+    "vectors_name":"spacy_pretrained_vectors"
+  },
+  "architecture":"simple_cnn",
+  "pretrained_vectors":null,
+  "pretrained_dims":null
+}

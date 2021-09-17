@@ -1,0 +1,8 @@
+/models/*
+/venv/*
+/.idea/*
+/__pycache__/*
+test.py
+bnb_rus.pkl
+sentiment_classifier_vot_eng.pkl
+sentiment_classifier_vot_rus.pkl
