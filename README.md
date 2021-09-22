@@ -6,7 +6,7 @@
     1. Get Docker installed (docker.com)
     2. Create your Telegram Bot (https://core.telegram.org/bots) and recieve your bot token from BotFather
     3. Pull this repo
-    4. Download the rest of the .pkl files from (https://disk.yandex.ru/d/9P4GNPFSbab2Lg) and place them into the pulled repo
+    4. Download the models (.pkl and folders) from (https://disk.yandex.ru/d/9P4GNPFSbab2Lg) and place them into the pulled repo
     4. Place your bot token into the config.py file
     5. Using cmd (on Windows) go to the project folder
     6. Run 'docker-compose up' command
